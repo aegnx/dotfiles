@@ -1,6 +1,6 @@
 # aegnx's dotfiles
 
-hello, here are my dotfiles
+hello, here are my dotfiles (still in progress, i forgot how to make folders lmao)
 
 its basically my own implementation of catppuccin macchiato (the colors may be inconsistent, but i like them this way)
 
