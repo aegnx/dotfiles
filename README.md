@@ -25,7 +25,7 @@ just git clone them into your home dir and copy the files you want/need:
 
 for example:
 
-``mkdir ~/.config/picom/ && cp ~/dotfiles/config/picom/picom.conf``
+``mkdir ~/.config/picom/ && cp ~/dotfiles/config/picom/picom.conf ~/.config/picom/picom.conf``
 # CLOSING THOUGHTS
 
 hope you liked this, if you wanna tell me that 1 bar is better than two, I ALREADY KNOW.
