@@ -1,0 +1,38 @@
+[colors.primary]
+foreground = "#cad3f5"
+background = "#24273a"
+dim_foreground = "#cad3f5"
+bright_foreground = "#cad3f5"
+
+[colors.normal]
+black = "#24273a"
+red = "#ed8796"
+green = "#a6da95"
+yellow = "#eed49f"
+blue = "#8aadf4"
+magenta = "#c6a0f6"
+cyan = "#91d7e3"
+white = "#cad3f5"
+[colors.bright]
+black = "#24273a"
+red = "#ed8796"
+green = "#a6da95"
+yellow = "#eed49f"
+blue = "#8aadf4"
+magenta = "#c6a0f6"
+cyan = "#91d7e3"
+white = "#cad3f5"
+
+[font]
+normal = {family = "JetBrainsMono Nerd Font Mono", style = "Regular"}
+bold = {family = "JetBrainsMono Nerd Font Mono", style = "Regular"}
+italic = {family = "JetBrainsMono Nerd Font Mono", style = "Regular"}
+bold_italic = {family = "JetBrainsMono Nerd Font Mono", style = "Regular"}
+size = 10
+
+[cursor]
+style = {shape = "beam", blinking = "Never"}
+thickness = 0.25
+
+[window]
+padding = {x = 8, y = 8}
