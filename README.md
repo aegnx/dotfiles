@@ -35,6 +35,8 @@ for example:
 
 ``mkdir ~/.config/picom/ && cp ~/dotfiles/config/picom/picom.conf ~/.config/picom/picom.conf``
 
+also for firefox install firefox color and then click on [this link](https://color.firefox.com/?theme=XQAAAAJLBAAAAAAAAABBqYhm849SCicxcUcPX38oKRicm6da8pG5gi-DrbS7fiEFLUzDsWXWyUHMSkHZ2PpRK_LvZGTF44fp7V5-cUx_CRWg2U9gmLkHa_313BCAGaH0etQy5IDqEypDDGgyXZnKOO6rerjp6uJVar6vLqkJlaKgAL7TZSmhjIVSgi1fc_TGPaqj72HtveSwtxc49EFc47CD4NtEh-wVu8Qva-F9aU5d8UVxGK8ZrSvy8Cu5Na0acCM4yAk5sWz7z56b5Et_wAIo5_htC7z04Qb8mrqjQ0mvSJjN383bE3sLcNrK2pC1kzaaa3OyZ6gdEUU-MHeistQ_7r4TgZ_Qy2FD-Jc1kCtpDw7LpX7zFGBSUeN206CLiHgsTE2fs-v6bGfVa415V6rTc0AxXLP9VV5lEteRxEwW5DhJ6499EAUdQhm9V6vV85qbZiUkSpU8x4R5lga8L3lYF6JuWz6d49ZqdLqlRqxwrIIDM0HNlV9_I9nDPSDjS1lWbVarH6GCtBGeeyt-F7BafpB7rZnyzBHpHn914wYe1IdSNLIKPAX83djec76bOEERqP_5hVuf)
+
 # CLOSING THOUGHTS
 
 hope you liked this, if you wanna tell me that 1 bar is better than two, I ALREADY KNOW.
